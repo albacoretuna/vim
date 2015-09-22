@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/omid/test'
+let g:netrw_dirhist_2='/home/omid/vimtest'
+let g:netrw_dirhist_3='/home/omid/Dropbox/Resume/IT/code-tests/futurice-binomial-coefficient.js'
+let g:netrw_dirhist_4='/home/omid/dev/gizlo/scotch/casper/output'
+let g:netrw_dirhist_5='/home/omid/test'
